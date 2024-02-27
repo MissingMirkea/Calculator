@@ -61,10 +61,6 @@ int main()
 			cout << b << "^" << e << " = " << pow(b, e);
 		}
 		break;
-		//de facut cu log cu baza ce o poti alege
-		// de facut alt proiect bank ce va salva datele intrun fisier , cat am cheltuit si cat am primit , pe ce , ce poate fi scos etc..
-		//facut programe de la bac info
-		// creat program ce va ajuta cu mate bac
 	}
 }
 

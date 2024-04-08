@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <math.h>
 using namespace std;
-float a, b ,d,e ;
+float a, b ,d,e,comp ;
 char c(100);
 int main()
 {
